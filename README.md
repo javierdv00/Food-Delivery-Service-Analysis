@@ -22,17 +22,17 @@ The data set has a list of 2 files, which are:
  
 # Tasks
 1- How many restaurants are active on deliverando or our competitors in the given months (>0 orders per month)?  
-   ○ How much have the respective platforms grown?
+&nbsp;● How much have the respective platforms grown?
  
 2- How many restaurants are exclusively online with our competitors and not available on deliverando?
  
 3- Which restaurants have placed the most orders with our competitors (top 10)?  
-   ○ Are these restaurants also active on deliverando and if so, how did the orders on the deliverando platform compare to the performance on the competitor platform?
+ ● Are these restaurants also active on deliverando and if so, how did the orders on the deliverando platform compare to the performance on the competitor platform?
  
 4- What conclusions regarding other KPIs can you draw from the performance of the top restaurants on deliverando?  
  
 5- Based on your analysis:  
-   ○ Which recommendations would you make to the sales or account management team?
+&nbsp;● Which recommendations would you make to the sales or account management team?
 
 6- Create a presentation to show what you did. Make your results accessible for a broad audience so that they can use it.
  
