@@ -1,15 +1,15 @@
 # Sales Analyst Restaurant
-# # # Internal examination by assessing seven key performance indicators, and conducted an analysis of its competitors, by which I created an accurate roadmap for growth optimization.
+Internal examination by assessing seven key performance indicators, and conducted an analysis of its competitors, by which I created an accurate roadmap for growth optimization.
+ 
+# The (fictitious) company is successfully growing but because of the newly opened delivery companies in the city Graz, the competition in the field is becoming huge. The strategy team has requested a competitor analysis which would help to create an accurate roadmap for growth optimization.
+ 
+# Data
+The data set has a list of 2 files, which are:
+ 
+1 - Internal data set with the columns: name, zip, kpi, Month 1, Month2 and delivery service
+2 - Competition dataset with the columns: name, zip, orders, month, and delivery service
 # 
-# # # The (fictitious) company is successfully growing but because of the newly opened delivery companies in the city Graz, the competition in the field is becoming huge. The strategy team has requested a competitor analysis which would help to create an accurate roadmap for growth optimization.
-# 
-# # 🗞️ Data
-# # # The data set has a list of 2 files, which are:
-# 
-# # # 1 - Internal data set with the columns: name, zip, kpi, Month 1, Month2 and delivery service
-# # # 2 - Competition dataset with the columns: name, zip, orders, month, and delivery service
-# 
-# # # ● NOTE: the excel file of the competition data has 2 sheets (Month 1 and Month 2)
+### ● NOTE: the excel file of the competition data has 2 sheets (Month 1 and Month 2)
 # 
 # #  Glossary:
 # 
