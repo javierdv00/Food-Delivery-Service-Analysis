@@ -4,7 +4,7 @@ The fictitious company is successfully growing. But because of the newly opened 
 # Data
 The data set has a list of 2 files, which are:
  
-1 - Internal data set with the columns: name, zip, kpi, Month 1, Month2 and delivery service
+1 - Internal data set with the columns: name, zip, kpi, Month 1, Month2 and delivery service__
 2 - Competition dataset with the columns: name, zip, orders, month, and delivery service
  
  ● NOTE: the excel file of the competition data has 2 sheets (Month 1 and Month 2)
@@ -12,8 +12,8 @@ The data set has a list of 2 files, which are:
 #  Glossary:
 
 # KPIs
- ● % Kill rate - the percentage of customers who did not order again on the platform after placing an order with the restaurant
- ● Positive comment - number of reviews with positive comments
+ ● % Kill rate - the percentage of customers who did not order again on the platform after placing an order with the restaurant__
+ ● Positive comment - number of reviews with positive comments  
  ● Negative comment - number of reviews with negative comments
  ● Avg time to accept (s) - the average time (in seconds) to accept an order
  ● Graz Relevant zip codes 8010, 8020, 8036, 8041, 8042, 8043, 8045, 8051, 8052, 8053, 8054, 8055, 8063, 8077
